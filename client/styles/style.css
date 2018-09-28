@@ -1,0 +1,25 @@
+.tile{
+  width: 80px;
+  height: 80px;
+  font-size: 60px;
+  font-family: Helvetica;
+}
+
+#game_board{
+  display: block;
+  margin-left:41%;
+  margin-right:50%;
+}
+
+.center{
+  margin: 0 auto;
+}
+p
+{
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+}
